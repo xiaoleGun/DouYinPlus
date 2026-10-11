@@ -1,0 +1,26 @@
+/.theos/
+/.module-cache/
+*.dylib
+*.deb
+*.o
+*.dSYM/
+*.pyc
+__pycache__/
+.DS_Store
+/.env
+/.env.*
+/.venv/
+
+# Local notes and assistant configuration are not repository content.
+/docs/
+/.agents/
+/.codex/
+/.claude/
+/.cursor/
+/.continue/
+[aA][gG][eE][nN][tT].md
+[aA][gG][eE][nN][tT][sS].md
+[cC][lL][aA][uU][dD][eE].md
+[gG][eE][mM][iI][nN][iI].md
+.cursorrules
+.windsurfrules

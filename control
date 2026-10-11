@@ -1,0 +1,11 @@
+Package: com.xiaolegun.douyinplus
+Name: DouYinPlus
+Version: 0.1
+Architecture: iphoneos-arm64
+Description: 抖音体验增强，基于 DYYY 与 DYKiller
+Maintainer: xiaoleGun
+Author: xiaoleGun
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.pxx917144686.dyyy, com.huami.dyyy
+Replaces: com.pxx917144686.dyyy, com.huami.dyyy
